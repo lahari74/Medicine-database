@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">medicinedatabase</string>
+    <string name="name">MEDICINE DATABASE</string>
+    <string name="insert">INSERT</string>
+    <string name="fetch">FETCH</string>
+    <string name="medicine_name">MEDICINE NAME</string>
+    <string name="date">DATE</string>
+    <string name="time_of_the_day">TIME OF THE DAY</string>
+    <string name="trigger">TRIGGER AN ALARM</string>
+    <string name="insertdata">INSERTION OF DATA</string>
+    <string-array name="time_of_the_day">TIME OF THE DAY
+        <item>Morning</item>
+        <item>Afternoon</item>
+        <item>Evening</item>
+        <item>Night</item>
+    </string-array>
+</resources>
